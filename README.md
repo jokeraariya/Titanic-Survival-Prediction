@@ -51,4 +51,10 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 ## 🚀 Future Improvements
 - Hyperparameter tuning  
 - Model deployment using Streamlit  
-- Try advanced models (XGBoost)  
+- Try advanced models (XGBoost)
+
+## 📈 Model Comparison
+![Model Comparison](Screenshot 2026-04-14 223904)
+
+## 🔍 Confusion Matrix
+![Confusion Matrix](Screenshot 2026-04-14 223825)
